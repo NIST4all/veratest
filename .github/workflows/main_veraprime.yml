@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'veraprime'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EC5329377F1426A96756D9ED9A22DBB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A258E1C0ACF640FC99DC4913F029A17C }}
